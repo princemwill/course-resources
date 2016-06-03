@@ -79,3 +79,6 @@ Required Textbook:
 Optional Textbooks:
 - _[Database Design for Mere Mortals](http://www.informit.com/store/database-design-for-mere-mortals-a-hands-on-guide-to-9780321884497)_, by Michael J. Hernandez
 - _[ASP.NET MVC 5 with Boostrap and Knockout.js](http://shop.oreilly.com/product/0636920035350.do)_, by Jamie Munro
+
+Free Digital Textbook
+- _[Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/downloads/)_ (aka _The Bulgarian Book_), by Svetlin Nakov, Veselin Kolev and team
