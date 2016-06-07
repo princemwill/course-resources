@@ -21,6 +21,12 @@
 
 1. Fill out this Google Form with your thoughts/reactions. There are no right or wrong answers! <http://goo.gl/forms/FSwKkJKS8I8a7hkr1>
 
+## Set Goal(s)
+
+1. Write down one or two big picture goals that you have for this cohort. What are you trying to get out of it? What do you hope will be different when the boot camp is complete?
+
+1. Think hard on these goals - you will be coming back to them every day as part of check-in!
+
 ## Learn Some HTML & CSS
 
 1. Visit Khan Academy and complete several modules in the [HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css) category:
