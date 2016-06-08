@@ -67,7 +67,7 @@ Class is from 9:30am-3:15pm Monday-Friday, with the exception of holidays. You a
 
 If you attend less than 90% of classes, you will need to make up the time in some other way. The TA will have more information for you if that's the case.
 
-In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. You must also complete every assignment - any assignments considered **incomplete** must be resubmitted before the end of the course.
+In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. You must also complete every assignment - any assignments considered **incomplete** must be resubmitted before the end of the course. Finally, you must receive a grade of 70% or higher on the final project.
 
 # Course Resources
 
