@@ -11,6 +11,7 @@ Start to get familiar with GitHub by completing some common tasks.
 - [ ] Open a new issue in the `course-resources` repository
   - [ ] Title it `01 -- Git With It -- Your Name`
   - [ ] Copy the list of tasks from the **RAW** view of this assignment into the description of your issue
+  - [ ] Give the issue the label `WIP`
   - [ ] Submit the issue
 - [ ] Check off items in the issue as you complete them (including this one!)
 - [ ] Fork the [git-with-it](https://github.com/wcci-summer-2016/git-with-it) repository.
@@ -25,16 +26,16 @@ Start to get familiar with GitHub by completing some common tasks.
 - [ ] Review someone else's pull request
   - [ ] Approve it if they followed instructions
   - [ ] Leave a comment for them about what to fix if they did not
+- [ ] Let us know you're done
+  - [ ] Remove the `WIP` label
+  - [ ] Add the `Ready for Review` label
+  - [ ] Mention the `@staff` team in a comment indicating you're done
 
 ### Stretch Tasks
 
 - [ ] Incorporate an image into your student info section
 - [ ] Make some changes to the `main.css` file and submit a pull request for that
 - [ ] Take a look at additional pull requests and offer feedback
-
-### Tertiary Tasks
-
-- [ ] Get some JavaScript goin' on
 
 ## Details
 
@@ -58,7 +59,9 @@ If you don't see the symbols like `- [ ]` then you probably aren't in **RAW** mo
 
 ![filled out issue](filled_out_issue.png)
 
-When you've got everything pasted in, submit the issue. You can then view the issue, and as you complete tasks, click the checkboxes on the issue page.
+Next, you need to add a label to the issue. Click the **Labels** button on the right side of the screen, and click `WIP` to mark the issue as "Work in Progress."
+
+Finally, submit the issue. As you're working through the homework assignment, revisit the issue page, and click the checkboxes to mark tasks complete.
 
 ### Fork the Repository
 
@@ -105,6 +108,14 @@ Review the code changes. You can click on the **Files changed** tab at the top o
 It's also possible that the merge will not be able to happen automatically. This is okay, and happens quite often when multiple people work on the same file! In that case, a merge will have to be performed from Git Shell, and files will have to be manually edited before the merge can happen. The GitHub website usually offers some guidance in the event of this happening, and if it happens to you, consider yourself lucky to have a learning opportunity. :)
 
 If it looks to you like they didn't complete the tasks correctly, make note of that by using the commenting functionality of the pull request.
+
+### Update Your Issue
+
+Finally, you'll need to update some parts of your issue to indicate you're complete. First add a comment to your issue with a link to your pull request and a link to the pull request you approved. You can paste a link to the URL of the pull request, or you can also refer to it by typing the `#` sign followed by the automatically assigned number of your pull requests.
+
+Next, adjust the labels by clicking the gear next to the **Labels** link on the right side of the screen. Remove the `WIP` label, and add the `Ready for Review` label.
+
+Finally, add another comment mentioning `@staff` and saying "Completed." This gives us a notification that your assignment has been completed.
 
 ### Stretch tasks
 
