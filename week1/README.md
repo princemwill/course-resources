@@ -7,8 +7,9 @@
 
 ## Tasks
 
+(All readings are from the _Player's Guide_)
+
 - Day 1 (Logistics, Crash Course)
-  - [ ] Download/save [textbook](http://www.introprogramming.info/english-intro-csharp-book/downloads/) to computer for easy viewing
   - [ ] Complete pre-bootcamp modules
   - [ ] Chapter 1
   - [ ] Chapter 2
