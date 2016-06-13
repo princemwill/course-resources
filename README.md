@@ -1,5 +1,9 @@
 ![We Can Code IT](wcci_logo.png)
 
+## Latest Updates
+
+[Week 1 Preview](week1)
+
 ## Summer 2016 Full-Time Cohort
 
 Welcome! I can't wait to get started with our boot camp.
