@@ -2,7 +2,7 @@
 
 ## Latest Updates
 
-[Week 1 Preview](week1)
+[Week 2](week2)
 
 ## Summer 2016 Full-Time Cohort
 
