@@ -14,9 +14,7 @@
   - [ ] Chapter 18
   - [ ] Chapter 19
   - [ ] Assignment: [Dragon Slaying (Part 1)](assignments/01-dragon-slaying-pt1)
-- Day 3 (Lists and Dictionaries)
-  - [ ] Chapter 24
-  - [ ] Assignment: [Dragon Slaying (Part 2)](assignments/02-dragon-slaying-pt2)
+- Day 3 (Class canceled)
 - Day 4 (Building Classes, Methods and Properties)
   - [ ] Chapter 15 (read/skim it again!)
   - [ ] Chapter 18 (read/skim it again!)
