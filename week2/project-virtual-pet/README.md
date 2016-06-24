@@ -4,6 +4,10 @@
 
 Make a virtual pet. Bonus points if it becomes a fad.
 
+## Due
+
+This project is due **Tuesday, 6/28/2016, at 9:00 AM**.
+
 ## Tasks
 
 ### Required Tasks
