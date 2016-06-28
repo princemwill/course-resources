@@ -59,10 +59,6 @@ You may want to install the [NUnit 3 Test Adapter](https://github.com/nunit/docs
 
 Install it from the `Tools > Extensions and Updates` menu item and restart Visual Studio.
 
-![NUnit Test Adapter Installation](nunittestadapter1.gif)
-
 Then show the **Test Explorer** window by clicking `Test > Windows > Test Explorer`, and click the **Run All** button to actually run the tests.
-
-![NUnit Test Adapter Usage](nunittestadapter2.gif)
 
 This is not necessary for running tests, and it can take a little bit longer to run tests, but some developers prefer the visualization of each passing/failing test right inside Visual Studio.
