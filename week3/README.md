@@ -14,10 +14,10 @@
   - [ ] Assignment: [Express Yourself](assignments/01-express-yourself)
 - Day 3 (Polymorphism, Virtual Methods, Abstract Classes)
   - [ ] Chapter 22
-  - [ ] Assignment: [Library (Part 1)](assignments/02-library-pt1)
+  - [ ] Assignment: [Library (Part 1)](assignments/02-library-teller-pt1)
 - Day 4 (Interfaces, Lists, and Dictionaries)
   - [ ] Chapter 23
   - [ ] Chapter 24
-  - [ ] Assignment: [Library (Part 2)](assignments/02-library-pt1)
+  - [ ] Assignment: [Library (Part 2)](assignments/02-library-teller-pt2)
 - Day 5 (Project Day)
   - [ ] Project: TBD
