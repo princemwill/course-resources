@@ -31,7 +31,6 @@ The next couple assignments will have you working on a library teller system. As
 
 - [ ] Write a `DVD`, `Magazine`, and `Book` class that
   - [ ] Inherit from the `Media` class
-  - [ ] Contain a public static int RentalLength
   - [ ] Print media details() should print:
      * The Type followed by the title
      * The length
