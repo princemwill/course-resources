@@ -18,6 +18,6 @@
 - Day 4 (Interfaces, Lists, and Dictionaries)
   - [ ] Chapter 23
   - [ ] Chapter 24
-  - [ ] Assignment: [Library (Part 2)](assignments/02-library-teller-pt2)
+  - [ ] Assignment: [Library (Part 2)](assignments/03-library-teller-pt2)
 - Day 5 (Project Day)
   - [ ] Project: TBD
