@@ -20,4 +20,4 @@
   - [ ] Chapter 24
   - [ ] Assignment: [Library (Part 2)](assignments/03-library-teller-pt2)
 - Day 5 (Project Day)
-  - [ ] Project: TBD
+  - [ ] Project: [Rock Paper Scissors](project-rock-paper-scissors)
