@@ -4,6 +4,10 @@
 
 Write some "bots" that can play Rock Paper Scissors.
 
+## Due
+
+This project is due **Tuesday, 7/5/2016, at 9:00 AM**.
+
 ## Tasks
 
 ### Required Tasks
