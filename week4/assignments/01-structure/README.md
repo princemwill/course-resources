@@ -9,6 +9,7 @@ Write the HTML for some websites, focusing on picking appropriate elements to em
 ### Required Tasks
 
 - [ ] Yak Shaving
+  - [ ] (OPTIONAL) Create a Visual Studio **Web Site** project called `structure`
   - [ ] Create a repository called `structure`
   - [ ] Make frequent commits with descriptive messages
 - [ ] Barebones HTML
@@ -26,15 +27,15 @@ For this assignment, you will be recreating the overall structure of some existi
 
 The structure of a document is determined by the HTML tags (elements) that make it up. In HTML5, much more emphasis is placed on using appropriate _semantic_ elements: that is, elements that convey some sense of how their contents fit with the rest of the content on the page.
 
-Do not focus on what the page looks like - instead, focus on what the parts of the page are intended to convey. In fact, feel free to use placeholder text anywhere there is an image. Use the toolbox for ideas of tags to use.
+Do not focus on what the page _looks_ like - instead, focus on what the parts of the page are intended to _convey_. In fact, feel free to use placeholder text anywhere there is an image or large blobs of text. Use the toolbox for ideas of tags to use.
 
 Also don't get bogged down in the exact content - try to convey the gist of what the page is showing, but don't feel like you have to re-type _every single thing_ on it. The point of this assignment is to focus on the structure, not the content.
 
 For each task, it might help to draw boxes around key areas and connect related areas.
 
-<aside>
-
 ### Toolbox
+
+Here are some suggestions for tags to use. You aren't limited to these, but you should be able to complete the required tasks using these:
 
 * `<!DOCTYPE html>`
 * `<html>`
@@ -55,8 +56,6 @@ For each task, it might help to draw boxes around key areas and connect related 
 * `<table>`
 * `<div>`
 
-</aside>
-
 ### Blog Site
 
 ![Blog Site](blogsite.png)
@@ -67,7 +66,7 @@ For each task, it might help to draw boxes around key areas and connect related 
 
 ### Stretch Tasks
 
-Work on these additional layouts.
+Work on these additional layouts. These aren't necessarily more complex layouts - remember to focus on the information that needs to be conveyed, and trust that positioning/sizing can largely be handled with CSS!
 
 #### News Site
 
