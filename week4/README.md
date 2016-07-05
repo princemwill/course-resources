@@ -12,7 +12,7 @@
     - [ ] [HTML Basic](http://www.w3schools.com/html/html_basic.asp)
     - [ ] [HTML Elements](http://www.w3schools.com/html/html_elements.asp)
     - [ ] [HTML Attributes](http://www.w3schools.com/html/html_attributes.asp)
-  - [ ] Homework: TBD
+  - [ ] Homework: [Structure](assignments/01-structure)
 - Day 2 (CSS)
   - [ ] [W3Schools CSS Tutorial](http://www.w3schools.com/css/)
     - [ ] [CSS Introduction](http://www.w3schools.com/css/css_intro.asp)
