@@ -9,7 +9,7 @@ Write the HTML for some websites, focusing on picking appropriate elements to em
 ### Required Tasks
 
 - [ ] Yak Shaving
-  - [ ] (OPTIONAL) Create a Visual Studio **Web Site** project called `structure`
+  - [ ] Create a Visual Studio **Web Site** project called `structure` (OPTIONAL)
   - [ ] Create a repository called `structure`
   - [ ] Make frequent commits with descriptive messages
 - [ ] Barebones HTML
