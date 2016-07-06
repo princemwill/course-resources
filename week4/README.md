@@ -19,7 +19,7 @@
     - [ ] [CSS Syntax](http://www.w3schools.com/css/css_syntax.asp)
     - [ ] [CSS How To](http://www.w3schools.com/css/css_howto.asp)
     - [ ] [CSS Colors](http://www.w3schools.com/css/css_colors.asp)
-  - [ ] Homework: TBD
+  - [ ] Homework: [Never Go Out](assignments/02-never-go-out)
 - Day 3 (Bootstrap)
   - [ ] [W3Schools Bootstrap 3 Tutorial](http://www.w3schools.com/bootstrap/)
     - [ ] [BS Get Started](http://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
