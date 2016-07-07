@@ -24,6 +24,5 @@
   - [ ] [W3Schools Bootstrap 3 Tutorial](http://www.w3schools.com/bootstrap/)
     - [ ] [BS Get Started](http://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
     - [ ] [BS Grid Basic](http://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp)
-  - [ ] Homework: TBD
+  - [ ] Project: [Tuscany Villa](project-tuscany-villa)
 - Day 4 (Project Day)
-  - [ ] Project: TBD
