@@ -26,3 +26,4 @@
     - [ ] [BS Grid Basic](http://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp)
   - [ ] Homework: [Start Me Up](assignments/03-start-me-up)
 - Day 4 (Project Day)
+  - [ ] Project: [Tuscany Villa](project-tuscany-villa)
