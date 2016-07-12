@@ -10,7 +10,7 @@
   - [Crash Course Tutorial](https://www.youtube.com/watch?v=BeZdeWmW-4Q)
   - Homework: [Table It](assignments/01-table-it)
 - Day 2 (MVC Pair Programming)
-  - TBD
+  - Homework: [SQL Zookeeper](assignments/02-sql-zookeeper)
 - Day 3 (SQL)
   - TBD
 - Day 4 (Razor)
